@@ -15,7 +15,6 @@
 ## Fundamentals
 
 * [APR and APY](fundamentals/apr-and-apy.md)
-* [Projects](fundamentals/projects.md)
 * [Members](fundamentals/members.md)
 
 ## Use Cases
@@ -27,6 +26,3 @@
 * [For Support](use-cases/for-support/README.md)
   * [Intercom Integration](use-cases/for-support/intercom-integration.md)
 
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
